@@ -1,0 +1,8 @@
+com\models\Task.class
+com\repository\IRepository.class
+com\example\App.class
+com\service\IService.class
+com\repository\TaskRepository$1.class
+com\repository\TaskRepository.class
+com\models\Status.class
+com\service\TaskService.class
